@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"editor.fontFamily": "RecMonoCasual-Italic, Lucida Console, monospace",
+		"editor.fontSize": 13.5,
+		"editor.fontLigatures": true,
+		"files.autoSave": "afterDelay",
+		"files.trimTrailingWhitespace": true,
+		"files.trimFinalNewlines": true
+	},
+	"extensions": {
+		"recommendations": [
+			"charliermarsh.ruff",
+			"ms-python.python",
+			"tamasfe.even-better-toml",
+			"redhat.vscode-yaml",
+		]
+	}
+}
